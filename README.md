@@ -29,7 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nick7nlp&show_icons=true&theme=transparent" />
 </picture>
 
-😄[[PhD-Work]](https://scholar.google.com/citations?user=vA2YMfgAAAAJ&hl=en)
+😄[[PhD-Work]](https://github.com/MySong7NLPer)
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=MySong7NLPer&show_icons=True&theme=transparent"
