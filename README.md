@@ -29,19 +29,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nick7nlp&show_icons=true&theme=transparent" />
 </picture>
 
-😄[[PhD-Work]](https://github.com/MySong7NLPer)
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=MySong7NLPer&show_icons=True&theme=transparent"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=MySong7NLPer&show_icons=true&theme=transparent"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=MySong7NLPer&show_icons=true&theme=transparent" />
-</picture>
-
+⚡[[Previous Work]](https://github.com/MySong7NLPer)
 
 <!---
 <picture>
