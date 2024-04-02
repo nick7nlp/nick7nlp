@@ -1,8 +1,21 @@
-# Hi 👋, I'm Mingyang Song!
+<div align="center">
+   <h1>Hi 👋, I'm Mingyang Song!</a> </h1>
+</div>
+<p align='center'>
+<a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
+<a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+</p>
 
-[![](https://img.shields.io/badge/Google%20Scholar-4385FE.svg?&color=d6d6d6&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=3aBZza8AAAAJ)
-[![](https://img.shields.io/github/stars/nick7nlp?style=flat-square&logo=github&label=Stars&color=gray)](https://github.com/nick7nlp)
-[![](https://komarev.com/ghpvc/?username=nick7nlp&style=flat-square)](https://github.com/nick7nlp)
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 nick7nlp | 💻 Python Engineer | 🛸 China , Beijing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+[![](https://img.shields.io/badge/Google%20Scholar-4385FE.svg?&color=d6d6d6&style=flat-square&logo=google-scholar#pic_center)](https://scholar.google.com/citations?hl=en&user=3aBZza8AAAAJ)
+[![](https://img.shields.io/github/stars/nick7nlp?style=flat-square&logo=github&label=Stars&color=gray#pic_center)](https://github.com/nick7nlp)
+[![](https://komarev.com/ghpvc/?username=nick7nlp&style=flat-square#pic_center)](https://github.com/nick7nlp)
 
 <picture>
 <source 
@@ -14,6 +27,19 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=nick7nlp&show_icons=true&theme=transparent" />
+</picture>
+
+😄[[PhD-Work]](https://scholar.google.com/citations?user=vA2YMfgAAAAJ&hl=en)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=MySong7NLPer&show_icons=True&theme=transparent"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=MySong7NLPer&show_icons=true&theme=transparent"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=MySong7NLPer&show_icons=true&theme=transparent" />
 </picture>
 
 
